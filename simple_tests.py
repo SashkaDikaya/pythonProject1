@@ -19,4 +19,4 @@ def test_6():
 
 
 def test_7():
-    print("Hello, world!")
+    print("Hello, world! ++++")
