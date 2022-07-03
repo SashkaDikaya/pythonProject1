@@ -2,7 +2,6 @@ def test_0():
     assert 2 > 1
 
 
-
 def test_one():
     assert 2 > 1
 
@@ -20,4 +19,4 @@ def test_6():
 
 
 def test_7():
-    print("Hello")
+    print("Hello, world!")
